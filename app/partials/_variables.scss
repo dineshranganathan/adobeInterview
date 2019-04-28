@@ -1,0 +1,25 @@
+/* -------------------------------- 
+
+ Font Family
+
+-------------------------------- */
+@font-face {font-family: "Camphor W01 Regular";
+	src: url("../fonts/camphor.eot"); /* IE9*/
+	src: url("../fonts/camphor.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+	url("../fonts/camphor.woff2") format("woff2"), /* chrome、firefox */
+	url("../fonts/camphor.woff") format("woff"), /* chrome、firefox */
+	url("../fonts/camphor.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+	url("../fonts/camphor.svg#Camphor W01 Regular") format("svg"); /* iOS 4.1- */
+  }
+
+
+// colors
+
+$color-1: #1A1A1A; // Cod Gray
+$color-2: #DB6356; // Roman
+$color-3: #FFFFFF; // White
+$color-4: #548c7e; // Patina
+
+// fonts 
+
+$primary-font: "Camphor W01 Regular";

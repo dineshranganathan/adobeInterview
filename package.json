@@ -1,0 +1,12 @@
+{
+    "name": "adobeInterview",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Dinesh",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.1"
+    }
+}
